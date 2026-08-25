@@ -1,5 +1,6 @@
 {
     "position": "top",
+    "margin-top": 15,
     "margin-bottom": 15,
     "modules-left": [
         "clock",
